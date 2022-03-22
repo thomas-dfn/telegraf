@@ -5,7 +5,8 @@ import (
 	"time"
 
 	"github.com/influxdata/telegraf"
-	"github.com/prometheus/common/expfmt"
+//	"github.com/prometheus/common/expfmt"
+	"github.com/thomas-dfn/common/expfmt"
 )
 
 // TimestampExport controls if the output contains timestamps.
