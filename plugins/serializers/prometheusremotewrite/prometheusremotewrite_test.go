@@ -8,7 +8,8 @@ import (
 	"time"
 
 	"github.com/golang/snappy"
-	"github.com/prometheus/common/model"
+//	"github.com/prometheus/common/model"
+	"github.com/thomas-dfn/common/model"
 	"github.com/prometheus/prometheus/prompb"
 
 	"github.com/influxdata/telegraf"
