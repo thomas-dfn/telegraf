@@ -8,7 +8,8 @@ import (
 	"github.com/influxdata/telegraf"
 	"github.com/influxdata/telegraf/metric"
 
-	"github.com/prometheus/common/model"
+//	"github.com/prometheus/common/model"
+	"github.com/thomas-dfn/common/model"
 	"github.com/prometheus/prometheus/prompb"
 )
 
